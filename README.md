@@ -15,7 +15,7 @@
 
 ## ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,cpp,c)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=java,js,bootstrap,jquery,cpp,c)](https://skills.thijs.gg)
 
 ## ❤️ Session's Attended
 
@@ -23,10 +23,10 @@
 
 ## 🤝 Let's get Connected
 <div align="left">
-  <a href="<your-linkedin-profile-url>" target="_blank">
+  <a href="<[your-linkedin-profile-url](https://www.linkedin.com/in/mridul-gehlot-b5380b297/)>" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:<your-email-address>" target="_blank">
+  <a href="mailto:mridulgehlot03@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://twitter.com/<your-twitter-username>" target="_blank">
@@ -39,4 +39,4 @@
 
 ## 📊 GitHub Stats
 
-![<your-first-name>'s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MridulGehlot&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2&hide_border=true)
+![Mridul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MridulGehlot&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2&hide_border=true)
