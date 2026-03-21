@@ -15,11 +15,8 @@
 
 ## ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,bootstrap,jquery,cpp,c)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven,js,bootstrap,jquery,cpp,c)](https://skills.thijs.gg)
 
-## ❤️ Session's Attended
-
-- #### Understanding Open Source by MU-ACM & [Atharv Vani](https://www.linkedin.com/in/atharv-vani110/)
 
 ## 🤝 Let's get Connected
 <div align="left">
@@ -29,7 +26,7 @@
   <a href="mailto:mridulgehlot03@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/<your-twitter-username>" target="_blank">
+  <a href="https://twitter.com/<https://x.com/Mridul_Gehlot_>" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/<your-instagram-username>" target="_blank">
