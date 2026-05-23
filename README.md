@@ -4,10 +4,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Tech-Xplorer+%7C+Developer+%7C+Mentor)](https://git.io/typing-svg)
 
 🔭 I’m currently working on open source projects
+
 👯 I’m looking to collaborate on AITR's open source project
+
 🌱 I’m currently learning Angular
+
 💬 Ask me about Tech and Open Source
+
 ⚡ Fun fact, I can code in day and night both
+
 
 ## ⚙️ Tech Stack
 
