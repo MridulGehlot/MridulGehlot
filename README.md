@@ -4,13 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Tech-Xplorer+%7C+Developer+%7C+Mentor)](https://git.io/typing-svg)
 
 🔭 I’m currently working on open source projects
-
 👯 I’m looking to collaborate on AITR's open source project
-
 🌱 I’m currently learning Angular
-
 💬 Ask me about Tech and Open Source
-
 ⚡ Fun fact, I can code in day and night both
 
 ## ⚙️ Tech Stack
@@ -20,16 +16,16 @@
 
 ## 🤝 Let's get Connected
 <div align="left">
-  <a href="<[your-linkedin-profile-url](https://www.linkedin.com/in/mridul-gehlot-b5380b297/)>" target="_blank">
+  <a href="<[your-linkedin-profile-url](https://www.linkedin.com/in/mridul-gehlot)>" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mridulgehlot03@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/<https://x.com/Mridul_Gehlot_>" target="_blank">
+  <a href="https://twitter.com/https://x.com/Mridul_Gehlot_" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/<your-instagram-username>" target="_blank">
+  <a href="https://www.instagram.com/https://www.instagram.com/mridulgehlot0127?igsh=MTR6eGI5dzA2a3dhag==" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </div>
